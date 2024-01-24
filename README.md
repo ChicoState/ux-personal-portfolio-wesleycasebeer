@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+My name is Wesley and I'm a Computer Science major.
 
 ## UX Team Project
 
